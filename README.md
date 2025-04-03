@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Jesus Egusquiza </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 # 💫 About Me:
 👋 ¡Hola! Soy Jesus Egusquiza, estudiante de sexto ciclo de Ciencias de la Computación en UTEC. Me especializo en backend y también tengo experiencia en frontend.<br><br>💻 Stack Tecnológico:<br><br>Lenguajes: Python, Java, C++<br><br>Frameworks: Django, React, Spring<br><br>Bases de Datos: PostgreSQL, DynamoDB<br><br>Cloud: AWS (Lambda, Rekognition, S3, SQS, SNS)<br><br>Otros: Redis, WebSockets, Multi-tenancy<br><br>🚀
