@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 ¡Hola! Soy Jesus Egusquiza, estudiante de sexto ciclo de Ciencias de la Computación en UTEC. Me especializo en backend y también tengo experiencia en frontend.<br><br>💻 Stack Tecnológico:<br><br>Lenguajes: Python, Java, C++<br><br>Frameworks: Django, React, Spring<br><br>Bases de Datos: PostgreSQL, DynamoDB<br><br>Cloud: AWS (Lambda, Rekognition, S3, SQS, SNS)<br><br>Otros: Redis, WebSockets, Multi-tenancy<br><br>🚀 Experiencia:<br><br>Backend Developer en YALA (Startup) – Desarrollé funcionalidades escalables con Django, WebSockets, Redis y AWS.<br><br>Proyecto de Reconocimiento Facial – Implementé autenticación facial con AWS Rekognition para control de asistencia.<br><br>🔎 Me apasiona aprender nuevas tecnologías, resolver problemas complejos y enfrentar nuevos desafíos.<br><br>📫 Contáctame:<br><br>Email: elegus.15@gmail.com<br><br>GitHub: EgusquizaOreJesus
+👋 ¡Hola! Soy Jesus Egusquiza, estudiante de sexto ciclo de Ciencias de la Computación en UTEC. Me especializo en backend y también tengo experiencia en frontend.<br><br>💻 Stack Tecnológico:<br><br>Lenguajes: Python, Java, C++<br><br>Frameworks: Django, React, Spring<br><br>Bases de Datos: PostgreSQL, DynamoDB<br><br>Cloud: AWS (Lambda, Rekognition, S3, SQS, SNS)<br><br>Otros: Redis, WebSockets, Multi-tenancy<br><br>🚀
 
 
 ## 🌐 Socials:
